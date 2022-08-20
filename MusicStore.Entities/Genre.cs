@@ -1,6 +1,6 @@
 ﻿namespace MusicStore.Entities
 {
-    public class Class1
+    public class Genre
     {
 
     }
