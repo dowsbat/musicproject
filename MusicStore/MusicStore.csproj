@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\MusicStore.Entities\MusicStore.Entities.csproj" />
   </ItemGroup>
 
 </Project>
